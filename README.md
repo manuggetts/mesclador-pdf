@@ -17,10 +17,6 @@ Este script Python mescla arquivos PDF em um único arquivo.pdf. Ele percorre, e
 - [Código Fonte](#código-fonte)
 - [Contribuição](#contribuição)
 
-```
-pip install PyPDF2
-```
-
 ---
 
 ## 🚀 Como Usar
@@ -62,6 +58,10 @@ Para executar o programa, basta dar um duplo clique no arquivo `mesclador-pdf.ex
 Certifique-se de ter o Python instalado. Este script foi testado com Python 3.8.
 
 Você também precisará instalar a biblioteca `PyPDF2`. Para instalá-la, execute o seguinte comando no seu terminal:
+
+```
+pip install PyPDF2
+```
 
 Agora, clone o repositório para a sua máquina:
 
