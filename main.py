@@ -21,6 +21,6 @@ def merge_pdfs(input_folder, output_file):
         pdf_writer.write(out_file)
 
 if __name__ == "__main__":
-    input_folder = 'C:/Users/manug/Desktop/RPA/mesclador-pdf/arquivos'
-    output_file = 'C:/Users/manug/Desktop/RPA/mesclador-pdf/arquivos/merged.pdf'
+    input_folder = os.path.join('arquivos')
+    output_file = os.path.join('arquivos', 'merged.pdf')
     merge_pdfs(input_folder, output_file)
