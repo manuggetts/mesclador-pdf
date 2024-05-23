@@ -27,7 +27,7 @@ Este script Python mescla arquivos PDF em um único arquivo.pdf. Ele percorre, e
 
 Para os que preferem uma solução sem necessidade de configurar um ambiente Python, deixei este executável disponível para download. Você pode baixar o executável e a estrutura de diretórios necessária no seguinte link:
 
-- [Download do Executável](LINK)
+- [Download do Executável](https://github.com/manuggetts/mesclador-pdf/blob/main/dist/main.exe)
 
 #### Estrutura de Diretórios
 
